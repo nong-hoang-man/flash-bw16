@@ -1,4 +1,4 @@
-# 🌀 Madara Web Flasher
+# 🌀 OBITO Web Flasher
 
 Công cụ nạp firmware qua trình duyệt dành cho **RTL8720DN (BW16)** và **ESP32/ESP8266**.  
 Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duyệt Chrome/Edge, cáp USB và file firmware của bạn.
