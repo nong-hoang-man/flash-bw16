@@ -1,4 +1,4 @@
-# 🌀 Madara Web Flasher
+# 🌀 OBITO Web Flasher
 
 Công cụ nạp firmware qua trình duyệt dành cho **RTL8720DN (BW16)** và **ESP32/ESP8266**.  
 Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duyệt Chrome/Edge, cáp USB và file firmware của bạn.
@@ -7,11 +7,11 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 🚀 Bắt đầu nhanh
 
-[![Open Madara](https://img.shields.io/badge/MADARA_FLASHER-OPEN_NOW-ff003c?style=for-the-badge&labelColor=0a0a0c&logo=firefox&logoColor=ff003c)](https://uchiha-madara-02.github.io/flash-bw16-/)
+[![Open Obito](https://img.shields.io/badge/MADARA_FLASHER-OPEN_NOW-ff003c?style=for-the-badge&labelColor=0a0a0c&logo=firefox&logoColor=ff003c)](https://uchiha-madara-02.github.io/flash-bw16-/)
 
 ---
 
-![Madara](anh/menu.png)
+![Obito](https://github.com/uchiha-madara-02/flash-bw16-/blob/main/anh/menu.png)
 
 ## ✨ Tính năng chính
 
