@@ -63,7 +63,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ### 2. Nạp firmware cho **ESP32 / ESP8266**
 
-![Madara](anh/esp.png)
+![Madara](https://github.com/uchiha-madara-02/flash-bw16-/blob/main/anh/esp.png)
 
 - Sau khi chọn **ESP_CORE**, giao diện sẽ ở chế độ Advanced (không có Simple Mode).
 - Thêm ít nhất một dòng firmware với địa chỉ và file. Ví dụ:
@@ -119,10 +119,10 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 📜 Giấy phép & Tác giả
 
-  * Uchiha Madara
+  * Uchiha Obito
   * Tôi nghiên cứu từ 2 link này:
     - https://espressif.github.io/esptool-js/
     - https://nethercap-web-flasher-v2.vercel.app/
 
 **“Wake up to reality! Nothing ever goes as planned in this accursed world.”**  
-– Madara Uchiha
+– Obito Uchiha
