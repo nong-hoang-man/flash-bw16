@@ -7,7 +7,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 🚀 Bắt đầu nhanh
 
-[![Open Obito](https://img.shields.io/badge/MADARA_FLASHER-OPEN_NOW-ff003c?style=for-the-badge&labelColor=0a0a0c&logo=firefox&logoColor=ff003c)](https://uchiha-madara-02.github.io/flash-bw16-/)
+[![Open Obito](https://github.com/uchiha-madara-02/flash-bw16-/blob/main/anh/menu.png)](https://uchiha-madara-02.github.io/flash-bw16-/)
 
 ---
 
