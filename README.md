@@ -32,7 +32,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ### 1. Nạp firmware cho **BW16 (AMEBA_D)**
 
-![Madara](anh/ameba.png)
+![Madara](https://github.com/uchiha-madara-02/flash-bw16-/blob/main/anh/ameba.png)
 
 #### 🔹 Chế độ đơn giản (Simple Mode – khuyên dùng)
 
